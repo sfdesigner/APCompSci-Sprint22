@@ -1,0 +1,10 @@
+"C:\Program Files\Java\jdk-10.0.1\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.3\lib\idea_rt.jar=57557:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.3\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\dougw\IdeaProjects\Sprint22CaptureInput\out\production\Sprint22CaptureInput Main
+What's your name? Doug
+Hey there, Doug! 
+How many do you wish to buy? 5
+Buying 5 items 
+What is the price? 1.95
+The item costs $1.95. 
+Doug bought 5 items for $1.95 each, totaling $9.75 
+
+Process finished with exit code 0
